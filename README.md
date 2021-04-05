@@ -114,3 +114,4 @@ The filtering option is a very convenient option in Magento 2 that allows you to
   * [Magento 2 Admin View Extension](https://magefan.com/magento-2-admin-view-extension)
   * [Magento 2 Zero Downtime Deployment](https://magefan.com/blog/magento-2-zero-downtime-deployment)
   * [Magento 2 Product Grid Inline Editor](https://magefan.com/magento-2-product-grid-inline-editor)
+  * [Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications)
