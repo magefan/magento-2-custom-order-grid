@@ -116,3 +116,4 @@ The filtering option is a very convenient option in Magento 2 that allows you to
   * [Magento 2 Product Grid Inline Editor](https://magefan.com/magento-2-product-grid-inline-editor)
   * [Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications)
   * [Magento 2 Facebook Pixel Extension](https://magefan.com/magento-2-facebook-pixel-extension)
+  * [Better Magento 2 Checkout Extension](https://magefan.com/better-magento-2-checkout-extension)
