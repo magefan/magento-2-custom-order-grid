@@ -85,7 +85,7 @@ The filtering option is a very convenient option in Magento 2 that allows you to
 * [How to delete order in Magento 2?](https://magefan.com/magento-2-better-order-grid-extension/delete-order)
 
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
