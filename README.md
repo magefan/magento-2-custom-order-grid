@@ -1,4 +1,6 @@
 # Magento 2 Custom Order Grid Extension
+<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/m/a/magento-2-better-order-grid.webp">
 
 [Magento 2 Customer Order Grid](https://magefan.com/magento-2-better-order-grid-extension)  is the extension that will help you optimize your order management by customizing the order grid. You can set the order status colors, add a coupon code column, delete orders and hide some orders with certain statuses. 
@@ -6,7 +8,7 @@
 You don’t have to spend much time on order management if you have a Custom Order Grid extension at your disposal.
 
 
-<a href="https://magefan.com/magento-2-better-order-grid-extension"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
+<a href="https://magefan.com/magento-2-better-order-grid-extension"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
 
 ## Benefits
 
