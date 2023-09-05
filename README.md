@@ -11,7 +11,7 @@
 You don’t have to spend much time on order management if you have a Custom Order Grid extension at your disposal.
 
 
-<a href="https://magefan.com/magento-2-better-order-grid-extension"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2-better-order-grid-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-better-order-grid-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Benefits
 
