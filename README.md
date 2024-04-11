@@ -1,4 +1,4 @@
-# Magento 2 Custom Order Grid Extension
+# [Custom Magento 2 Order Grid](https://magefan.com/magento-2-better-order-grid-extension) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -6,77 +6,77 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/m/a/magento-2-better-order-grid.webp">
 
-[Magento 2 Customer Order Grid](https://magefan.com/magento-2-better-order-grid-extension)  is the extension that will help you optimize your order management by customizing the order grid. You can set the order status colors, add a coupon code column, delete orders and hide some orders with certain statuses. 
+[Custom Magento 2 Order Grid](https://magefan.com/magento-2-better-order-grid-extension)  is the extension that will help you optimize your order management by customizing the order grid. You can set the order status colors, add a coupon code column, delete orders and hide some orders with certain statuses. 
 
 You don’t have to spend much time on order management if you have a Custom Order Grid extension at your disposal.
 
-
 <a href="https://magefan.com/magento-2-better-order-grid-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-better-order-grid-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
+    
 ## Benefits
 
 * Better Order Management
 * Saved Time
 * Custom Order Grid
 
-
-
 ## Features
 ### Fast Order Management
 
 Usually, it takes you quite some time to find the order in the admin panel to work on a customer request. That’s because the default Magento order grid is pretty limited and doesn’t provide enough data. With the Magento 2 Extended Order Grid extension, you will optimize your order management processes to provide faster support.
+
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/product/m/a/magento-2-product-grid-improved.png">
+  <img src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/magento-admin-order-grid.webp">
 </p>
 
 ### Order Status Colors
-Customer Order Grid Extension for Magento 2 allows you to set different colors for orders with different statuses. So, you can easily scan the orders grid and see what orders have been completed, canceled or put on hold. 
+Custom Order Grid Extension for Magento 2 allows you to set different colors for orders with different statuses. So, you can easily scan the orders grid and see what orders have been completed, canceled or put on hold. 
+
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/product/m/a/magento-2-order-status.png">
+  <img src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/magento-order-status-color.webp">
 </p>
 
 ### Hide Orders with Statuses
-For better order management in your Magento 2 admin panel Better Order grid module offers an option to Hide Orders With Statuses. You can define orders with what statuses to display in the grid, so it is easier for your to navigate through them and find the ones you’re interested in.
+For better order management in your Magento 2 admin panel. Custom Order Grid module offers an option to Hide Orders With Statuses. You can define orders with what statuses to display in the grid, so it is easier for your to navigate through them and find the ones you’re interested in.
+
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/product/m/a/magento-2-better-order-grid-general-configuration.png">
+  <img src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/hide-orders-with-certain-statuses.webp">
 </p>
 
 ### Display Bought Products
-Add bought products to the order grid to instantly identify what products the customer refers to. This feature of the Magento 2 Custom Order Grid extension is really convenient, since it doesn’t only add bought products to the order grid, but the order editing page as well.
+Add bought products to the order grid to instantly identify what products the customer refers to. This feature of the Magento 2 Custom Order Grid extension is really convenient since it doesn’t only add bought products to the order grid, but the order editing page as well.
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/catalog/product/m/a/magento-2-product-grid-improved.png">
+  <img src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/magento-2-bought-products.webp">
 </p>
 
 ### Display Coupon Code
-Navigating through discounted products is much easier now when there is the Better Order Grid for Magento 2. It allows you to add a coupon code column to the grid, so you can find orders with discounts much faster.
+Navigating through discounted products is much easier now when there is the Custom Order Grid for Magento 2. It allows you to add a coupon code column to the grid, so you can find orders with discounts much faster.
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/product/m/a/magento-2-order-grid-columns_1.png">
+  <img src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/extended-order-grid-magento.webp">
 </p>
 
 ### Delete Orders
-Default Magento functionality doesn’t allow to delete orders, you can just cancel them. So it is not convenient, especially if you have a lot of test orders you want to get rid of. With Magento 2 Better Order Grid extension you will be able to delete orders directly in the order grid or from the order editing page.
+Default Magento functionality doesn’t allow to delete orders, you can just cancel them. So it is not convenient, especially if you have a lot of test orders you want to get rid of. With Custom Magento 2 Order Grid extension you will be able to delete orders directly in the order grid or from the order editing page.
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/product/d/e/delete-orders-from-grid-in-magento-2.png">
+  <img src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/delete-orders-in-magento.webp">
 </p>
 
 ### Product Thumbnails
 If you have a lot of products and you don’t remember what products look like, Magento 2 Order Grid extension covers that. It allows you to add the product thumbnails to the order grid and the order editing page.
-<p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/product/o/r/ordered-items-section-in-magento-orders.png">
-</p>
 
 ### Order Grid Templates
-Magento allows you to set different order grid templates. And Magento 2 Better Order Grid extension allows you to add some data to the order grid and hide orders with different statuses. You can create multiple grid templates with different data to optimize order management.
+Magento allows you to set different order grid templates. And Custom Magento 2 Order Grid extension allows you to add some data to the order grid and hide orders with different statuses. You can create multiple grid templates with different data to optimize order management.
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/product/m/a/magento-2-order-grid-templates.png">
+  <img src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/magento-order-grid-templates.webp">
 </p>
 
 ### Order Grid Columns
 In the default Magento order grid there is a limited number of columns with order data that doesn’t allow you to see the full picture. Usually, to get some more information about the order you have to go to every order page separately and find that info. Add multiple columns to the grid and have all information in front of you, right there on the grid.
 
 ### Filter Orders by Attributes
-The filtering option is a very convenient option in Magento 2 that allows you to find orders you’re interested in faster. With the Bought Products and the Coupon Code feature, Magento 2 Better Order Grid extension offers you, you will be able to filter orders by products and coupons as well.
-
+The filtering option is a very convenient option in Magento 2 that allows you to find orders you’re interested in faster. With the Bought Products and the Coupon Code feature, Custom Magento 2 Order Grid extension offers you, you will be able to filter orders by products and coupons as well.
 
 ## Documentation
 
@@ -119,6 +119,11 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/magento-2-custom-order-grid/issues).
 
 ## Need More Features?
 Please contact us to get a quote
