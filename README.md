@@ -22,19 +22,19 @@ You don’t have to spend time on tedious tasks if you have a Magento 2 Order Gr
 
 ## Benefits
 
-* Manage Orders Effectively
-* Change Order Status Colors
-* Hide Orders with Certain Statuses
-* Display Bought Products
-* Display Product Thumbnails and Attributes
-* Add Custom Grid Columns
-* Change Order Statuses via Mass Actions
-* Delete Orders from the Grid
-* Track Who Adds Changes to the Order
-* Find Orders Faster
-* Display the Enhanced Grid in Customer Accounts
-* Export Order Grid in a CSV/XML File
-* Reindex Order Grid From the Admin Panel
+* [Manage Orders Effectively](https://github.com/magefan/magento-2-order-grid#manage-orders-effectively)
+* [Change Order Status Colors](https://github.com/magefan/magento-2-order-grid#change-order-status-colors)
+* [Hide Orders with Certain Statuses](https://github.com/magefan/magento-2-order-grid#hide-orders-with-certain-statuses)
+* [Display Bought Products](https://github.com/magefan/magento-2-order-grid#display-bought-products)
+* [Display Product Thumbnails and Attributes](https://github.com/magefan/magento-2-order-grid#display-product-thumbnails-and-attributes)
+* [Add Custom Grid Columns](https://github.com/magefan/magento-2-order-grid#add-custom-grid-columns)
+* [Change Order Statuses via Mass Actions](https://github.com/magefan/magento-2-order-grid#change-order-statuses-via-mass-actions)
+* [Delete Orders from the Grid](https://github.com/magefan/magento-2-order-grid#delete-orders-from-the-grid)
+* [Track Who Adds Changes to the Order](https://github.com/magefan/magento-2-order-grid#track-who-adds-changes-to-the-order)
+* [Find Orders Faster](https://github.com/magefan/magento-2-order-grid#find-orders-faster)
+* [Display the Enhanced Grid in Customer Accounts](https://github.com/magefan/magento-2-order-grid#display-the-enhanced-grid-in-customer-accounts)
+* [Export Order Grid in a CSV/XML File](https://github.com/magefan/magento-2-order-grid#export-order-grid-in-a-csvxml-file)
+* [Reindex Order Grid From the Admin Panel](https://github.com/magefan/magento-2-order-grid#reindex-order-grid-from-the-admin-panel)
 
 ## Features
 ### Manage Orders Effectively
