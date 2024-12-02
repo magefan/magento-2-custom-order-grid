@@ -6,6 +6,8 @@ Better [Magento 2 Admin Order Grid](https://magefan.com/magento-2-better-order-g
 
 You don’t have to spend time on tedious tasks if you have a Magento 2 Order Grid to back you up.
 
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
+
 <img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
 <a href="https://magefan.com/magento-2-better-order-grid-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1849#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png"> 
@@ -15,10 +17,7 @@ You don’t have to spend time on tedious tasks if you have a Magento 2 Order Gr
   * [Change Log](https://magefan.com/magento-2-better-order-grid-extension/change-log)
   * [FAQs](https://magefan.com/magento-2-better-order-grid-extension#pattr-faq)
 
-<a href="https://magefan.com/blog/join-our-donations"><img src="https://cm.magefan.com/wysiwyg/banners/help-ukraine.png"></a>
-
-## Requirements
-  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
 
 ## Benefits
 
